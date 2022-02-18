@@ -13,6 +13,6 @@
 
 ### 🌟 CONTACT 🌟
 
-<p> 📧 Gmail: 21522487@gm.uit.edu.vn </a> </p>
+<p> 📧 Gmail: 21522487@gm.uit.edu.vn </p>
 <p> 🌐 <a href = "https://www.facebook.com/buidinhquan1303" > Facebook </a></p>
 <p> 🌐 <a href = "https://www.instagram.com/dquan_13/" > Instagram </a></p>
