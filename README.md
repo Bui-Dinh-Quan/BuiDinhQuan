@@ -1,14 +1,10 @@
-
 ## Hello, my name's Bui Dinh Quan 👋
-
 
 ### 🌟 ABOUT ME 🌟
 
 📆 Birthday: 13/03/2003 
 
 🏠 From: Quang Tri province, VietNam
-
-
 
 ### 🌟 EDUCATION 🌟
 📝 University: [University of Information Technology - UIT](https://www.uit.edu.vn)
